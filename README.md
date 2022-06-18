@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @reneamorales
 - 👀 I'm interested in frontend web development.
 - 🌱 I'm currently learning Js, Nodejs, Bootstrap, React, Angular.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am looking to expand my knowledge through my own projects. 
 - 📫 How to reach me renemoralesalejandro@gmail.com
 
 <!---
